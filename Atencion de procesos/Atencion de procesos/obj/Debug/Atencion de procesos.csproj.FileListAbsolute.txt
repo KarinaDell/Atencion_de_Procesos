@@ -8,3 +8,13 @@ C:\Users\20135214\Desktop\Atencion de procesos\Atencion de procesos\obj\Debug\At
 C:\Users\20135214\Desktop\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion de procesos.csproj.CoreCompileInputs.cache
 C:\Users\20135214\Desktop\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion de procesos.exe
 C:\Users\20135214\Desktop\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion de procesos.pdb
+C:\Users\20135214\Desktop\Atencion_de_Procesos-master\Atencion de procesos\Atencion de procesos\bin\Debug\Atencion de procesos.exe.config
+C:\Users\20135214\Desktop\Atencion_de_Procesos-master\Atencion de procesos\Atencion de procesos\bin\Debug\Atencion de procesos.exe
+C:\Users\20135214\Desktop\Atencion_de_Procesos-master\Atencion de procesos\Atencion de procesos\bin\Debug\Atencion de procesos.pdb
+C:\Users\20135214\Desktop\Atencion_de_Procesos-master\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion de procesos.csprojResolveAssemblyReference.cache
+C:\Users\20135214\Desktop\Atencion_de_Procesos-master\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion_de_procesos.Form1.resources
+C:\Users\20135214\Desktop\Atencion_de_Procesos-master\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion_de_procesos.Properties.Resources.resources
+C:\Users\20135214\Desktop\Atencion_de_Procesos-master\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion de procesos.csproj.GenerateResource.Cache
+C:\Users\20135214\Desktop\Atencion_de_Procesos-master\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion de procesos.csproj.CoreCompileInputs.cache
+C:\Users\20135214\Desktop\Atencion_de_Procesos-master\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion de procesos.exe
+C:\Users\20135214\Desktop\Atencion_de_Procesos-master\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion de procesos.pdb

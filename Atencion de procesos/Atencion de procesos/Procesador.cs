@@ -37,7 +37,7 @@ namespace Atencion_de_procesos
             {
                 t.sig = nuevo;
                 nuevo.sig = inicio;
-                inicio = inicio.sig;
+                //inicio = inicio.sig;
             }
             else
                 agregarRecursivo(nuevo, t.sig);
@@ -77,6 +77,9 @@ namespace Atencion_de_procesos
                 else
                     eliminarPrimeroRecursivo(inicio.sig);
             }
+
+            else
+                inicio = inicio.sig;
         }
 
         private void eliminarPrimeroRecursivo(Proceso t)
@@ -93,7 +96,7 @@ namespace Atencion_de_procesos
 
         private int procesosPendientes(Proceso t)
         {
-            if (t.sig == null)
+            if (t.sig == inicio)
                 return 1;
             else
                 return 1 + procesosPendientes(t.sig);
@@ -103,7 +106,7 @@ namespace Atencion_de_procesos
         {
             if (inicio == null)
                 return 0;
-            else if (inicio.sig == null)
+            else if (inicio.sig == inicio)
                 return inicio.Duracion;
             else
                 return ciclosPendientesR(inicio);
@@ -111,7 +114,7 @@ namespace Atencion_de_procesos
 
         public int ciclosPendientesR(Proceso t)
         {
-            if (t.sig == null)
+            if (t.sig == inicio)
                 return t.Duracion;
             else
                 return t.Duracion + ciclosPendientesR(t.sig);
